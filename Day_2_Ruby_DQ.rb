@@ -1,7 +1,7 @@
 
 #3
 
-dont use if statement with  select
+# dont use if statement with  select
 picnic = ["apple", "pear", "face", "champagne", "palm tree", "aardvark", "pineapple"]
 
 def select_a(picnic)
